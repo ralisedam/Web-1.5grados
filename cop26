@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>COP26 | 1,5°C</title>
+	<meta name="description" content="Breve resumen de la COP26 celebrada en Francia.">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body class="page-cop26">
+	<header>
+		<nav class="container">
+            <p class="lema-cabecera">NO HAY PLANETA B</p>
+           
+			<a class="link-titular" href="index.html">1,5°C</a>
+
+            <div class="navegation-container">
+                <ul class="menu-links">
+                    <li><a href="sintomas.html">SÍNTOMAS DEL CAMBIO CLIMÁTICO</a></li>
+                    <li><a href="videos.html">VIDEOS</a></li>
+                    <li class="active"><a href="cop26.html"><abbr title="Conferencia de las Naciones Unidas sobre el Cambio Climático">COP26</abbr></a></li>
+                </ul>
+            </div>
+		</nav>
+	</header>
+
+    <main>
+		<div class="container">	
+			<h2 class="title"><abbr title="Conferencia de las Naciones Unidas sobre el Cambio Climático">COP26</abbr>, Glasgow 2021</h2>
+            <div class="texto-COP26">
+                <section class="ficha-técnica">
+                    <h3>Datos del acontecimiento</h3>
+                    <dl>
+                        <dt><img src="img/COP26_Logo.png" alt="Logotipo de la COP26" class="img-fluid"></dt>
+                        <dt>NOMBRE</dt>
+                        <dd>Conferencia de les Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) y la Conferencia de las Partes en calidad de reunión de las Partes en el Protocolo de Kioto (CMP)</dd>
+                        <dt>FECHA DE REALIZACIÓN</dt>
+                        <dd>31 de octubre a 12 de noviembre de 2021</dd>
+                        <dt>TEMA DEL ACONTECIMIENTO</dt>
+                        <dd>Calentamiento global</dd>
+                        <dt>LOCALIZACIÓN</dt>
+                        <dd>Glasgow, Escocia</dd>
+                        <dt>PARTICIPANTES</dt>
+                        <dd>40.000</dd>
+                        <dt>SITIO WEB DE LA CONFERENCIA</dt>
+                        <dd><a class="featured-link" href="https://ukcop26.org/">https://ukcop26.org/</a></dd>
+                    </dl>
+                </section>
+    
+                <section class="reseña">
+                    <div class="justify-text">
+                        <h3>Resultados de la Conferencia</h3>
+                        <p>El Pacto Climático de Glasgow es el acuerdo final de la Conferencia de las Naciones Unidas sobre el Cambio Climático de 2021. Después de centenares de horas de negociación se ha llegado a los siguientes pactos:</p>
+                        
+                        <ol class="lista-pactos">
+                            <li>Revisión de los planes de reducción de emisiones durante el 2022 para intentar mantener el objetivo del Acuerdo de París de alcanzar que el calentamiento global esté por debajo de 1,5ºC.</li>
+                            <li>Reducción del 45% de las emisiones de gases de efecto invernadero para el 2030.</li>
+                            <li>Reducción progresiva del uso del carbón.</li>
+                            <li>Antes del 2025 los países desarrollados se comprometen a doblar el financiamiento para la adaptación a la crisis climática de los países en desarrollo.</li>
+                        </ol>
+        
+                        <p>El acuerdo pretendía incluir la <strong>eliminación gradual</strong> del uso del carbón; pero en los momentos finales de la negociación, los países dependientes del carbón, especialmente la India, presionaron para que en el acuerdo final se hablase, no de eliminación, sino de <strong>reducción gradual</strong>.</p>
+                        <p>El acuerdo no ha satisfecho completamente a todo el mundo. Los gobiernos de la Unión Europea, Estados Unidos y Reino Unido valoran positivamente los resultados de la conferencia. Los grupos ecologistas han criticado los acuerdos que consideran insuficientes.</p>
+                    </div>
+                   
+                    <blockquote>
+                        <p>And it is my firm belief that the text that is on the table now reflects perfectly well this respect shown by the Presidency, and at the same time, allows us to act with the urgency that is essential for our survival.</p>
+                        <cite>Frans Timmermans</cite>
+                    </blockquote>
+    
+                    <blockquote class="espacio">
+                        <p>The <abbr title="Conferencia de las Naciones Unidas sobre el Cambio Climático">COP26</abbr> is over. Here's a brief summary: Blah, blah, blah. But the real work continues outside these halls. And we will never give up, ever.</p>
+                        <cite>Greta Thunberg</cite>
+                    </blockquote>
+    
+                </section>
+            </div>
+        </div>
+	</main>
+
+    <footer>
+		<div class="container">
+			<ul class="legal-links">
+				<li><a href="">Sobre nosotros</a></li>
+				<li><a href="">Aviso legal</a></li>
+				<li><a href="">Política de privacidad</a></li>
+				<li><a href="">Política de cookies</a></li>
+			</ul>
+
+            <ul class="social-links">
+				<li><a href=""><img src="img/twitter.svg" alt="Isotipo de twitter"></a></li>
+				<li><a href=""><img src="img/instagram.svg" alt="Isotipo de instagram"></a></li>
+				<li><a href=""><img src="img/youtube.svg" alt="Isotipo de youtube"></a></li>
+			</ul>
+
+            <p class="credits">Actividad realizada por Rebeca Aliseda Marabel, para la asignatura <abbr title="HyperText Markup Language" lang="en">HTML</abbr> y <abbr title="Cascading Style Sheets" lang="en">CSS</abbr>. Primer semestre del curso 2021-2022</p>
+		</div>
+	</footer>
+</body>
+
+</html>
+    
+            
